@@ -730,12 +730,11 @@ a:hover {
   transition: all 500ms ease;
 }
 
-#about-resume-button:hover {
+/* #about-resume-button:hover {
   background-color: white;
   color: #9972a4;
-  /* box-shadow: 0 0 0 3px #9972a4; */
   transition: all 500ms ease;
-}
+} */
 
 #about-name {
   font-size: 1.5em;
